@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Accepted Papers
-permalink: /papers/
+permalink: {{ site.url }}/papers/
 order: 2
 ---
 
 ***[Visualizing Dynamics: from t-SNE to SEMI-MDPs]***
-Nir Ben Zrihem, Tom Zahavy, Shie Mannor
+Nir Ben Zrihem, Tom Zahavy, Shie Mannor.
 
 <span style="color:red">***(Best paper prize)***</span> ***[Visual Tools for Debugging Neural Language Models]***
 Xin Rong, Eytan Adar
