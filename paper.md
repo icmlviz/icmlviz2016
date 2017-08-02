@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Accepted Papers
-permalink: {{site.url}}/papers/
+permalink: /papers/
 order: 2
 ---
 
@@ -12,7 +12,7 @@ Nir Ben Zrihem, Tom Zahavy, Shie Mannor
 Xin Rong, Eytan Adar
 
 ***[Effective Visualizations for Training and Evaluating Deep Models]***
-Luke Yeager.
+Luke Yeager
 
 ***[Direct-Manipulation Visualization of Deep Networks]***
 Daniel Smilkov, Shan Carter, D. Sculley, Fernanda B. Viegas, Martin Wattenberg 
