@@ -3,7 +3,7 @@ title: ICML Visualization Workshop
 email: bjiang@berkeley.edu
 description: > # this means to ignore newlines until "baseurl:"
   Built with Jekyll
-baseurl: "https://icmlviz.github.io/icmlviz2016/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://icmlviz.github.io/icmlviz2016/" # the base hostname & protocol for your site
 
 # Build settings
