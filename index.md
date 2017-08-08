@@ -128,7 +128,7 @@ Submission website: [https://cmt3.research.microsoft.com/VDL2016]
 [guideline]: http://icml.cc/2016/?page_id=151
 [https://cmt3.research.microsoft.com/VDL2016]: https://cmt3.research.microsoft.com/VDL2016
 [here]: reference
-[accepted papers]: https://icmlviz.github.io/icmlviz2016/papers	
+[accepted papers]: papers	
 [Jeff Clune]: http://jeffclune.com/
 [Wojciech Samek]: http://iphome.hhi.de/samek/
 [Yingnian Wu]: http://www.stat.ucla.edu/~ywu/
@@ -141,7 +141,7 @@ Submission website: [https://cmt3.research.microsoft.com/VDL2016]
 [Inceptionism]: http://googleresearch.blogspot.ch/2015/06/inceptionism-going-deeper-into-neural.html
 [Martin Wattenberg]: http://www.bewitched.com/about.html
 [Christopher Olah]: http://colah.github.io/about.html
-[Schedule]: https://icmlviz.github.io/icmlviz2016/schedule
+[Schedule]: schedule
 
 
 <script>

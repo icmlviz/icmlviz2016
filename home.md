@@ -6,7 +6,7 @@ order: 1
 ---
 
 # 2016 Workshop on Visualization for Deep Learning
-![Teaser](/assets/deepdream.jpg)
+![Teaser](assets/deepdream.jpg)
 
 ###### Image credit: [Deep Dream Generator], and Google [Inceptionism]
 
@@ -67,11 +67,11 @@ Workshop: ***June 23, 2016***   (Astor at Marriott Marquis)
 
 
 ## Sponsor ##
-<img src="/assets/googlelogo.png" width="200px"/>
+<img src="assets/googlelogo.png" width="200px"/>
 
 <br>
 
-<img src="/assets/NVLogo_2D.jpg" width="200px"/>
+<img src="assets/NVLogo_2D.jpg" width="200px"/>
 
 
 ## Topics:##
@@ -129,8 +129,8 @@ Submission website: [https://cmt3.research.microsoft.com/VDL2016]
 [Aditya Khosla]: https://people.csail.mit.edu/khosla/
 [guideline]: http://icml.cc/2016/?page_id=151
 [https://cmt3.research.microsoft.com/VDL2016]: https://cmt3.research.microsoft.com/VDL2016
-[here]: https://icmlviz.github.io/icmlviz2016/reference	
-[accepted papers]: https://icmlviz.github.io/icmlviz2016/papers	
+[here]: ../reference	
+[accepted papers]: ../papers	
 [Jeff Clune]: http://jeffclune.com/
 [Wojciech Samek]: http://iphome.hhi.de/samek/
 [Yingnian Wu]: http://www.stat.ucla.edu/~ywu/
@@ -143,7 +143,7 @@ Submission website: [https://cmt3.research.microsoft.com/VDL2016]
 [Inceptionism]: http://googleresearch.blogspot.ch/2015/06/inceptionism-going-deeper-into-neural.html
 [Martin Wattenberg]: http://www.bewitched.com/about.html
 [Christopher Olah]: http://colah.github.io/about.html
-[Schedule]: https://icmlviz.github.io/icmlviz2016/schedule
+[Schedule]: ../schedule
 
 
 <script>
