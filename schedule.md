@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Schedule
-permalink: /schedule/
+permalink: https://icmlviz.github.io/icmlviz2016/schedule/
 ---
 
 
