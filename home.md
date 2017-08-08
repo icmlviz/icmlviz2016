@@ -6,7 +6,7 @@ order: 1
 ---
 
 # 2016 Workshop on Visualization for Deep Learning
-![Teaser](assets/deepdream.jpg)
+![Teaser](../assets/deepdream.jpg)
 
 ###### Image credit: [Deep Dream Generator], and Google [Inceptionism]
 
@@ -67,11 +67,11 @@ Workshop: ***June 23, 2016***   (Astor at Marriott Marquis)
 
 
 ## Sponsor ##
-<img src="assets/googlelogo.png" width="200px"/>
+<img src="../assets/googlelogo.png" width="200px"/>
 
 <br>
 
-<img src="assets/NVLogo_2D.jpg" width="200px"/>
+<img src="../assets/NVLogo_2D.jpg" width="200px"/>
 
 
 ## Topics:##
