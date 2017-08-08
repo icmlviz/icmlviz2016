@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Reference
-permalink: /reference/
+permalink: /icmlviz2016/reference/
 ---
 
 ## List of reference papers##

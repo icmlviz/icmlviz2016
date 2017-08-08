@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Accepted Papers
-permalink: /papers/
+permalink: /icmlviz2016/reference/
 order: 2
 ---
 
