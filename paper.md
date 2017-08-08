@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Accepted Papers
-permalink: {{ site.url }}/papers/
+permalink: https://icmlviz.github.io/icmlviz2016/papers/
 order: 2
 ---
 
