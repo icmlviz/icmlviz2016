@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Schedule
-permalink: /schedule/
+permalink: https://icmlviz.github.io/icmlviz2016/reference/
 ---
 
 
-8:30-8:45 Opening remark 
+8:30--8:45 Opening remark 
 
 8:45-9:15 Invited talk. ***Direct-Manipulation Visualization of Deep Networks*** Martin Wattenberg, Daniel Smilkov (Google)
 
