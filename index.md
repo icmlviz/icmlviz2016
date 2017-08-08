@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 2016 Workshop on Visualization for Deep Learning
-![Teaser](/assets/deepdream.jpg)
+![Teaser](assets/deepdream.jpg)
 
 ###### Image credit: [Deep Dream Generator], and Google [Inceptionism]
  
@@ -65,11 +65,11 @@ Workshop: ***June 23, 2016***  (Astor at Marriott Marquis)
 ##### [Junyan Zhu], University of California, Berkeley
 
 ## Sponsor ##
-<img src="/assets/googlelogo.png" width="200px"/>
+<img src="assets/googlelogo.png" width="200px"/>
 
 <br>
 
-<img src="/assets/NVLogo_2D.jpg" width="200px"/>
+<img src="assets/NVLogo_2D.jpg" width="200px"/>
 
 
 ## Topics:##
@@ -127,7 +127,7 @@ Submission website: [https://cmt3.research.microsoft.com/VDL2016]
 [Aditya Khosla]: https://people.csail.mit.edu/khosla/
 [guideline]: http://icml.cc/2016/?page_id=151
 [https://cmt3.research.microsoft.com/VDL2016]: https://cmt3.research.microsoft.com/VDL2016
-[here]: https://icmlviz.github.io/icmlviz2016/reference
+[here]: reference
 [accepted papers]: https://icmlviz.github.io/icmlviz2016/papers	
 [Jeff Clune]: http://jeffclune.com/
 [Wojciech Samek]: http://iphome.hhi.de/samek/
