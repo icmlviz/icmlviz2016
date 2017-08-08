@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-permalink: /icmlviz2016/home/
+permalink: /home/
 order: 1
 ---
 
