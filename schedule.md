@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Schedule
-permalink: /icmlviz2016/reference/
+permalink: /icmlviz2016/schedule/
 ---
 
 
